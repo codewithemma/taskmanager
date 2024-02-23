@@ -1,31 +1,32 @@
-Task Management App with Tailwind CSS and React
-
-This is a simple task management application built with React and Tailwind CSS. The app allows you to create projects and add tasks to them.
-
-Getting Started
-To get started, clone the repository and install the dependencies:
-
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
-npm install
-
-To start the development server, run:
-npm start
-This will start the app in development mode at http://localhost:3000.
+React Task Management App with Tailwind CSS
+This project is a simple task management app built with React and styled using Tailwind CSS. Users can create projects and add tasks within those projects.
 
 Features
-Create projects
-Add tasks to projects
-View tasks for a specific project
+Project Creation: Users can create new projects.
+Task Management: Within each project, users can add, and delete tasks.
+Installation
+Clone the Repository:
+git clone https://github.com/your-username/your-task-app.git
+cd your-task-app
 
-Built with
+Install Dependencies:
+npm install
+
+Start the Development Server:
+npm start
+
+Usage
+Create a Project:
+Click the “New Project” button.
+Enter a project name and click “Create.”
+Add Tasks:
+Click on a project to view its details.
+Use the “Add Task” button to create new tasks.
+Edit or delete tasks as needed.
+Technologies Used
 React
 Tailwind CSS
+JSON Server (for simulating a backend)
+Acknowledgments
 
-Contributing
-Contributions are welcome! If you find any bugs or have any suggestions, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Happy coding!
+Happy coding! 🚀
