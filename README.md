@@ -6,7 +6,7 @@ Project Creation: Users can create new projects.
 Task Management: Within each project, users can add, and delete tasks.
 Installation
 Clone the Repository:
-git clone https://github.com/your-username/your-task-app.git
+git clone https://github.com/codewithemma/taskmanager.git
 cd your-task-app
 
 Install Dependencies:
