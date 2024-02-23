@@ -1,2 +1,4 @@
-# Example of a `.gitattributes` file which reclassifies `.css` files as JavaScript:
-.css linguist-language=JavaScript
+# Ignore CSS files
+*.css linguist-detectable=false
+# Detect JavaScript files
+*.js linguist-detectable=true
